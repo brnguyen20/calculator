@@ -1,0 +1,100 @@
+:root{
+    --main-font: Consolas;
+    --box-height: 450px;
+    --box-width: 300px;
+    --button-width: 50px;
+    --button-height: 50px;
+}
+
+.button{
+    width: var(--button-width);
+    height: var(--button-height);
+    color: white;
+    background-color: #c39ae6b3;
+    border-radius: 8px;
+    border-color: #c39ae6b3;
+    transition-duration: 0.3s;
+    font-family: var(--main-font);
+    font-size: 1em;
+    margin: 2px;
+}
+
+.button:hover{
+    background-color: #4caf50
+}
+
+.outer-box{
+    background-color: #163c7d;
+    height: var(--box-height);
+    width: var(--box-width);
+    border-radius: 8px;
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-left: 80px;
+    font-family: var(--main-font);
+}
+
+.display-value{
+    color: white;
+    font-size: 2.5em;
+    width: 200px;
+    text-align: right;
+}
+
+.calculated-value{
+    color: white;
+    font-size: 1.2em;
+}
+
+.equals-button{
+    background-color: rgb(230, 170, 80);
+}
+
+/* crazy styles */
+
+.crazy-button{
+    width: var(--button-width);
+    height: var(--button-height);
+    color: white;
+    background-color: #58c2ab;
+    border-radius: 8px;
+    border-color: #58c2ab;
+    transition-duration: 0.3s;
+    font-family: var(--main-font);
+    font-size: 1em;
+    margin: 2px;
+}
+
+.crazy-button:hover{
+    background-color: seagreen;
+}
+
+.crazy-outer-box{
+    background-color: #4382bb;
+    height: var(--box-height);
+    width: var(--box-width);
+    border-radius: 8px;
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-left: 80px;
+    font-family: var(--main-font);
+}
+
+.row1 {
+    background-color: #f5bfd2;
+}
+.row2 {
+    background-color: #9ac8eb;
+}
+.row3 {
+    background-color: #a1cdce;
+}
+.row4 {
+    background-color: #ebe013;
+}
+.row5 {
+    background-color: #beb4c5;
+}
+.row6 {
+    background-color: #e6a57e;
+}

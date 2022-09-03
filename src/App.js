@@ -53,6 +53,7 @@ const App = () => {
           if (String(displayValue).includes(".")) {
             if (event.target.value === "0") {
               setDisplayValue(String(displayValue) + "0");
+              setCalculatedValue(String(displayValue) + "0");
               return;
             }
           }
