@@ -1,1 +1,1 @@
-Welcome to my calculator application built on React! It's nothing crazy - this is my first React project developed from scratch after self-learning the library through fullstackopen. Thanks for stopping by!
+Welcome to my calculator application built on React! It's nothing crazy - this is my first React project developed from scratch after self-learning the library through fullstackopen. You can visit calculator-two-tan.vercel.app to try the demo. Thanks for stopping by!
