@@ -1,1 +1,1 @@
-Welcome to my calculator application built using React! After self-learning React through fullstack open, I used my knowledge to build this basic project from scratch. To demo the app, you can visit [here]([calculator-two-tan.vercel.app](https://calculator-two-tan.vercel.app/)). Thanks for stopping by!
+Welcome to my calculator application built using React! After self-learning React through fullstack open, I used my knowledge to build this basic project from scratch. To demo the app, you can visit [here](https://calculator-two-tan.vercel.app/). Thanks for stopping by!
